@@ -1,0 +1,128 @@
+body{
+    background-color: #f0f2f5;
+}
+.un{
+    width: 320px; 
+    height: 40px; 
+    border: 1px solid #dddfe2;
+    border-radius: 5px; 
+    margin-left: 22px; 
+    margin-top: 12px;  
+    color: white;
+}
+
+.un:focus{
+    border-color: #1877f2;
+    outline: none;
+}
+.ps{
+    width: 320px; 
+    height: 40px; 
+    border: 1px solid #dddfe2;
+    border-radius: 5px; 
+    margin-left: 22px; 
+    margin-top: 12px;
+}
+.ps:focus{
+    border-color: #1877f2;
+    outline: none;
+}
+.box{
+    height: 350px;
+    width: 380px;
+    background-color: white;
+    margin-left: 780px;
+    margin-top: 130px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+.log{
+    margin-left: 22px; 
+    margin-top: 12px;
+    padding-left: 135px; 
+    padding-right: 135px; 
+    padding-top: 8px;
+    padding-bottom: 8px; 
+    font-size: larger; 
+    background-color: #1877f2; 
+    border-style: none; 
+    border-radius: 6px; 
+    color: white;
+}
+.fp{
+    text-align: center; 
+    font-family: Helvetica, Arial, sans-serif;
+    color:#1877f2; 
+    text-decoration: none;
+}
+.cna{
+    padding: 10px 30px 10px 30px; 
+    font-size: larger; 
+    margin-left: 18%; 
+    margin-top: 25px; 
+    background-color: #42b72a; 
+    color: white; 
+    border-style: none; 
+    border-radius: 6px;
+}
+.inputs{
+   padding-top: 30px;
+   
+}
+.f{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.f:hover{
+    text-decoration: underline;
+    color: dodgerblue;
+
+}
+.txt{
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: end;
+    margin-right: 225px;
+    padding-top:25px ;
+}
+.fbl{
+    height: 200px;
+    width: 305px;
+   position: absolute;
+   margin-left: 150px;
+}
+.t{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 180px;
+    font-size: 28px;
+    line-height: 28px;
+    width: auto;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.footer{
+    margin-top: 120px;
+    background-color: white;
+    height: 150px;
+    display: block;
+}
+.footer,span{
+    font-size: 12px;
+    color: #737373;
+  padding-left: 100px;
+  padding-top: 25px;
+}
+.line{
+width: 70%;
+margin-left: 100px;
+color:  #dddfe2;
+}
+.lang{
+    padding-left: 100px;
+    word-spacing: 20px;
+    line-height: 25px;
+    
+}
+
